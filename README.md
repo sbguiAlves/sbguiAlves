@@ -8,8 +8,8 @@
   
 <div align="center">
   <a href="https://github.com/sbguiAlves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbguiAlves&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbguiAlves&layout=compact&langs_count=7&theme=yeblu&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sbguiAlves&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbguiAlves&layout=compact&langs_count=7&theme=yeblu&locale=pt-br"/>
 </div>
 
 ## Habilidades
