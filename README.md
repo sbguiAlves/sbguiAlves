@@ -2,7 +2,6 @@
 
 </h1>
 
-
 ![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square)
 - <b>Pronome:</b> Ele/Dele
 - <b>Formação Acadêmica:</b> Ciências da Computação 👨🏽‍💻 
