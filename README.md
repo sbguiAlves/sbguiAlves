@@ -3,8 +3,7 @@
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square)
 <br>
 - Sou **Guilherme Alves**, graduado em Ciências da Computação pela Universidade Federal de Jataí (Jataí-GO).
-- Atualmente, desenvolvo projetos pessoais em **Unity3D**, ao mesmo tempo que curso a formação Unity pela plataforma Alura.
-
+- Atualmente, desenvolvo projetos pessoais em **Unity3D** e busco pela 1º efetivação como desenvolvedor back-end.
 ## :mag_right: Visão Geral
   <a href="https://github.com/sbguiAlves">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=sbguiAlves&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
@@ -14,7 +13,7 @@
 ## :star2: Realizações pessoais
 - Publicação de artigo científico na Revista [Brazilian Journal of Development](https://doi.org/10.34117/bjdv6n7-433) sobre "Sistema para controle de fluxo de passageiros via microcontrolador de baixo custo autenticado por QR-Code".
 
-- Publicações de dois artigos científicos no Simpósio Brasileiro de Games e Entretenimento Digital (SBGames) sobre "Desenvolvimento de NPCs com comportamentos engajados" nas trilhas Computação [Computação](https://www.sbgames.org/proceedings2021/ComputacaoShort/217749.pdf?utm_source=SBGames) e [Indústria](https://www.sbgames.org/proceedings2021/IndustriaFull/218231.pdf?utm_source=SBGames).
+- Publicações de dois artigos científicos no Simpósio Brasileiro de Games e Entretenimento Digital (SBGames 2021) sobre "Desenvolvimento de NPCs com comportamentos engajados" nas trilhas [Computação](https://www.sbgames.org/proceedings2021/ComputacaoShort/217749.pdf?utm_source=SBGames) e [Indústria](https://www.sbgames.org/proceedings2021/IndustriaFull/218231.pdf?utm_source=SBGames).
 
 - Equipe vencedora da dinâmica de gamificação da Sampa Diversa, sede da Global Game Jam 2022 focada em grupos sub-representados na indústria de jogos digitais. O jogo [Light Points](https://globalgamejam.org/2022/games/light-points-5) foi feito em Unity para PC.
   
