@@ -1,9 +1,17 @@
 ## :man_technologist: Olá Devs!
-
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square)
 <br>
 - Sou **Guilherme Alves**, graduado em Ciências da Computação pela Universidade Federal de Jataí (Jataí-GO).
-- Atualmente, desenvolvo projetos pessoais em **Unity3D** e busco pela 1º efetivação como desenvolvedor back-end.
+
+<h3>&#128218; Estudos</h3>
+
+- Desenvolvimento de jogos digitais e programação orientada a objetos em **C#** pela ferramenta **Unity3D**.
+- Manipulação de APIs em **Java**.
+
+<h3>&#128188; Carreira</h3>
+
+- Buscando pela **1º efetivação** como programador back-end na área de desenvolvimento de sistemas.
+
 ## :mag_right: Visão Geral
   <a href="https://github.com/sbguiAlves">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=sbguiAlves&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
