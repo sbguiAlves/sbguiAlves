@@ -5,8 +5,7 @@
 
 <h3>&#128218; Estudos</h3>
 
-- Desenvolvimento de jogos digitais e programação orientada a objetos em **C#** pela ferramenta **Unity3D**.
-- Manipulação de APIs em **Java**.
+- Aprendendo sobre o ecossistema **.NET** e aperfeiçoando as habilidades de programação em **C#**.
 
 <h3>&#128188; Carreira</h3>
 
@@ -44,7 +43,6 @@
 | Português brasileiro  | Nativo        |
 
 ## 📌 Social
-  </h1>
-  <a href="https://zsb-gui.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-silva96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://guilherme96cdc.wixsite.com/portfoliodev/" target="_blank"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" target="_blank"></a>
+  <a href="https://zsb-gui.itch.io/" target="_blank"><img alt="Jogos publicados no itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-silva96/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://guilherme96cdc.wixsite.com/portfoliodev/" target="_blank"><img alt="Portfolio geral" src="https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge&logo=appveyor" target="_blank"></a>
