@@ -6,10 +6,12 @@
 <h3>&#128218; Estudos</h3>
 
 - Aprendendo sobre o ecossistema **.NET** e aperfeiçoando as habilidades de programação em **C#**.
+- Aprendendo **HTML** e **API REST**.
+- Aprendendo modelagem de dados e **SGBD**.
 
 <h3>&#128188; Carreira</h3>
 
-- Buscando pela **1º efetivação** como programador back-end na área de desenvolvimento de sistemas.
+- Buscando pela **1º efetivação** área de tecnologia da informação, informática ou computação.
 
 ## :mag_right: Visão Geral
   <a href="https://github.com/sbguiAlves">
