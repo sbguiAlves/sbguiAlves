@@ -6,9 +6,9 @@
 
 <h3>&#128218; Estudos</h3>
 
-- Aprendendo sobre o ecossistema **.NET** e aperfeiçoando as habilidades de programação em **C#**.
-- Aprendendo **HTML** e **API REST**.
-- Aprendendo modelagem de dados e **SGBD**.
+- Ecossistema **.NET** e lógica de programação em **C#**.
+- Tecnologias em front-end, tais como **HTTP**, **HTML** e **CSS**.
+- Modelagem de dados e **SGBD**.
 
 <h3>&#128188; Carreira</h3>
 
