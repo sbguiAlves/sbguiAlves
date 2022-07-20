@@ -9,6 +9,7 @@
 - Ecossistema **.NET** e lógica de programação em **C#**.
 - Tecnologias em front-end, tais como **HTTP**, **HTML** e **CSS**.
 - Modelagem de dados e **SGBD**.
+- Desenvolvimento de projeto pessoal em **Python** usando a Twitch API.
 
 <h3>&#128188; Carreira</h3>
 
