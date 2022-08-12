@@ -6,9 +6,9 @@
 
 <h3>&#128218; Estudos</h3>
 
-- **Engenharia de Software:** conceitos de Arquitetura, API, Microsserviços, Devops, etc.
-- Sistema Gerenciador de Banco de Dados com **MySQL**.
-- Tecnologias em front-end, tais como **HTTP**, **HTML** e **CSS**.
+- **Engenharia de Software:** conceitos em arquitetura de software, API, Microsserviços, Devops, etc.
+- Sistema Gerenciador de Banco de Dados com **Microsoft SQL Server**.
+- Desenvolvimento web com **HTML**, **CSS** e **JavaScript**.
 - Desenvolvimento de projeto pessoal em **Python** usando a Twitch API.
 
 <h3>&#128188; Carreira</h3>
