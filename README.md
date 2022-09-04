@@ -1,6 +1,6 @@
 ## :man_technologist: Olá Devs!
 [![Gender](https://img.shields.io/badge/Pronome-Ele/Dele-informational?style=flat-square)](#)
-[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square&label=Visualizações+mensais)](#)
+[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square&label=Visualizações+mensais+(set.))](#)
 <br>
 - Sou **Guilherme Alves**, graduado em Ciências da Computação pela Universidade Federal de Jataí (Jataí-GO).
 
