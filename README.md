@@ -1,12 +1,12 @@
 ## :man_technologist: Olá Devs!
-[![Gender](https://img.shields.io/badge/Pronome-Ele/Dele-informational?style=flat-square&logo=appveyor)](#)
-[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square)](#)
+[![Gender](https://img.shields.io/badge/Pronome-Ele/Dele-informational?style=flat-square)](#)
+[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square&label=Visualizações+mensais)](#)
 <br>
 - Sou **Guilherme Alves**, graduado em Ciências da Computação pela Universidade Federal de Jataí (Jataí-GO).
 
 <h3>&#128218; Estudos</h3>
 
-- **Engenharia de Software:** conceitos em arquitetura de software, API, Microsserviços, Devops, etc.
+- **Engenharia de Software:** conceitos de arquitetura de software, API, Microsserviços, Devops, etc.
 - Sistema Gerenciador de Banco de Dados com **Microsoft SQL Server**.
 - Desenvolvimento web com **HTML**, **CSS** e **JavaScript**.
 - Desenvolvimento de projeto pessoal em **Python** usando a Twitch API.
@@ -50,4 +50,5 @@
 ## 📌 Social
   <a href="https://zsb-gui.itch.io/" target="_blank"><img alt="Jogos publicados no itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-silva96/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://guilherme96cdc.wixsite.com/portfoliodev/" target="_blank"><img alt="Portfolio geral" src="https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge&logo=appveyor" target="_blank"></a>
+  <a href="https://guilherme96cdc.wixsite.com/portfoliodev/" target="_blank"><img alt="Portfolio geral" src="https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge" target="_blank"></a>
+    <a href="https://lattes.cnpq.br/5631081704923122/" target="_blank"><img alt="Portfolio geral" src="https://img.shields.io/badge/Lattes-lightgrey?style=for-the-badge" target="_blank"></a>
