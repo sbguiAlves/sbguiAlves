@@ -1,19 +1,14 @@
 ## :man_technologist: Olá Devs!
 [![Gender](https://img.shields.io/badge/Pronome-Ele/Dele-informational?style=flat-square)](#)
-[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square&label=Visualizações+mensais+(set.))](#)
+[![](https://komarev.com/ghpvc/?username=sbguiAlves&style=flat-square&label=Visualizações)](#)
 <br>
 - Sou **Guilherme Alves**, graduado em Ciências da Computação pela Universidade Federal de Jataí (Jataí-GO).
 
-<h3>&#128218; Estudos</h3>
+<h2>&#128188; Carreira</h2>
 
-- **Engenharia de Software:** conceitos de arquitetura de software, API, Microsserviços, Devops, etc.
-- Sistema Gerenciador de Banco de Dados com **Microsoft SQL Server**.
-- Desenvolvimento web com **HTML**, **CSS** e **JavaScript**.
-- Desenvolvimento de projeto pessoal em **Python** usando a Twitch API.
+<h3>Consultor acadêmico na Cogna Educação (set./2022 até o momento)</h3>
 
-<h3>&#128188; Carreira</h3>
-
-- Buscando pela **1º efetivação** área de tecnologia da informação, informática ou computação.
+- Atuação no time de Operações acadêmicas nas etapas de seleção e formação de profissionais e professores para a produção de materiais didáticos para cursos de graduação da instituição Kroton Educacional, principalmente disciplinas de Tecnologia.
 
 ## :mag_right: Visão Geral
   <a href="https://github.com/sbguiAlves">
