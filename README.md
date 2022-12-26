@@ -8,7 +8,7 @@
 
 <h3>Consultor acadêmico na Cogna Educação (set./2022 até o momento)</h3>
 
-- Atuação no time de Operações acadêmicas nas etapas de seleção e formação de profissionais e professores para a produção de materiais didáticos para cursos de graduação da instituição Kroton Educacional, principalmente disciplinas de Tecnologia.
+- Atuação no time de Operações acadêmicas nas etapas de seleção e formação de profissionais e professores para a produção de materiais didáticos de cursos de graduação da instituição Kroton Educacional, principalmente disciplinas na área da Tecnologia.
 
 ## :mag_right: Visão Geral
   <a href="https://github.com/sbguiAlves">
